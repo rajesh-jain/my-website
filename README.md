@@ -1,6 +1,4 @@
 # My Website
 This is a really awesome website.
 
-Edit on example Branch
-
-Updated Locally
+Update made on master on github before rebase
